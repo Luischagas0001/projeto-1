@@ -9,9 +9,9 @@ int main()
 {
 
 	string nome = "";
-	int p1 = 0;
-	int p2 = 0;
-	int media = 0;
+	double p1 = 0;
+	double p2 = 0;
+	double media = 0;
 
 
 	cout << "Nome\n";
